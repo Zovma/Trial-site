@@ -49,7 +49,7 @@ header span {
 
 #heading {
     position: absolute;
-    top: 193px;
+    top: 108px;
     left: 516px;
 }
 
@@ -60,13 +60,41 @@ header span {
 #p1 {
     font-size: 30px;
 }
-
+#input, form{
+    position: absolute;
+    left: 306px;
+    top: 198px;
+    
+}
 #input, input {
     height: 46px;
-    width: 290px;
-    border-radius: 5px;
+    width: 279px;
+    border-radius: 4px;
 }
 
 #request {
     background-color: #FFBB42;
+    width: 211px;
+    height: 50px;
+}
+#comp{
+    position: absolute;
+    top: 309px;
+    left: 526px;
+}
+#screen{
+    position: absolute;
+    left: 102px;
+    top: 15px;
+}
+#cricle{
+    position: absolute;
+    top: 765px;
+    left: 815px;
+}
+#ourService{
+    position: absolute;
+    top: 884px;
+    left: 688px;
+    text-align: center;
 }
