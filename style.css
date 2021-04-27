@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1700;
+    height: auto;
+}
+
+header div {
+    position: absolute;
+}
+
+#logo {
+    position: absolute;
+    left: 265px;
+    top: 22px;
+}
+
+header span {
+    margin: 7px;
+    font-size: 14px;
+}
+
+#divSpan {
+    left: 641px;
+    width: 723px;
+    top: 35px;
+}
+
+#home {
+    width: 70px;
+    height: 30px;
+    background-color: #FFBB42;
+    z-index: -1;
+    border-radius: 5px;
+    left: 630px;
+    top: 30px;
+}
+
+#blueBlock {
+    width: 1700px;
+    height: 589px;
+    background-color: #709DCA;
+    position: absolute;
+    top: 93px;
+}
+
+#heading {
+    position: absolute;
+    top: 193px;
+    left: 516px;
+}
+
+#heading, span {
+    text-align: center;
+}
+
+#p1 {
+    font-size: 30px;
+}
+
+#input, input {
+    height: 46px;
+    width: 290px;
+    border-radius: 5px;
+}
+
+#request {
+    background-color: #FFBB42;
+}
