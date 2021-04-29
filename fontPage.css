@@ -68,7 +68,7 @@ header span {
     top: 198px;
 }
 
-#input, input {
+form input {
     height: 46px;
     width: 279px;
     border-radius: 4px;
@@ -96,78 +96,4 @@ header span {
     position: absolute;
     top: 765px;
     left: 815px;
-}
-
-#ourService {
-    position: absolute;
-    top: 884px;
-    left: 688px;
-    text-align: center;
-}
-
-.grid-container {
-    position: absolute;
-    top: 1016px;
-    left: 264px;
-    display: grid;
-    grid-template-areas: "post-1 post-2" "post-3 post-4" "post-5 post-6";
-    grid-template-rows: repeat(3, 168px);
-    grid-template-columns: repeat(2, 615px);
-    font-size: 15px;
-}
-
-.post-1 {
-    grid-area: post-1;
-}
-
-.post-1 div {
-    position: absolute;
-    top: 0px;
-    left: 78px;
-}
-
-.post-2 {
-    grid-area: post-2;
-}
-.post-2 div{
-    position: absolute;
-    top: 0px;
-    left: 684px;
-}
-
-.post-3 {
-    grid-area: post-3;
-}
-
-.post-3 div {
-    position: absolute;
-    top: 168px;
-    left: 78px;
-}
-
-.post-4 {
-    grid-area: post-4;
-}
-.post-4 div{
-    position: absolute;
-    top: 168px;
-    left: 684px;
-}
-
-.post-5 {
-    grid-area: post-5;
-}
-.post-5 div{
-    position: absolute;
-    top: 336px;
-    left: 78px;
-}
-
-.post-6 {
-    grid-area: post-6;
-}
-.post-6 div{
-    position: absolute;
-    top: 336px;
-    left: 684px;
 }

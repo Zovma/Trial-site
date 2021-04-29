@@ -1,0 +1,234 @@
+.pricingTable{
+    position: absolute;
+    top: 2230px;
+    background-color: #E7EDF3;
+    width: 1700px;
+    height: 898px;
+    z-index: -1;
+
+}
+.pricingTable div{
+    position: absolute;
+    top: 134px;
+    left: 611px;
+    width: 468px;
+    text-align: center;
+}
+.pricingTable div p:first-of-type{
+    font-size: 30px;
+}
+#basicPlan{
+    position: absolute;
+    top: 262px;
+    left: 262px;
+    width: 388px;
+    height: 441px;
+    background-color: #FFFFFF;
+}
+#premiumPlan{
+    position: absolute;
+    top: 231px;
+    left: 650px;
+    width: 395px;
+    height: 498px;
+    background-color: #709DCA;
+}
+#goldPlan{
+    position: absolute;
+    top: 266px;
+    left: 1045px;
+    width: 391px;
+    height: 441px;
+    background-color: #FFFFFF;
+}
+#basicPlan :nth-child(1){
+    position: absolute;
+    top: 51px;
+    left: 134px;
+    font-size: 25px;
+}
+#basicPlan :nth-child(2){
+    position: absolute;
+    top: 83px;
+    left: 155px;
+}
+#basicPlan :nth-child(3){
+    position: absolute;
+    left: 31px;
+    top: 209px;
+    background-color: #A0A0A0;
+    height: 0.5px;
+    width: 329px;
+}
+#basicPlan :nth-child(4){
+    position: absolute;
+    left: 160px;
+    top: 220px;
+    font-size: 14px;
+}
+#basicPlan :nth-child(5){
+    position: absolute;
+    left: 31px;
+    top: 250px;
+    background-color: #A0A0A0;
+    height: 0.3px;
+    width: 329px;
+}
+#basicPlan :nth-child(6){
+    position: absolute;
+    left: 145px;
+    top: 260px;
+    font-size: 14px;
+}
+#basicPlan :nth-child(7){
+    position: absolute;
+    left: 31px;
+    top: 292px;
+    background-color: #A0A0A0;
+    height: 0.1px;
+    width: 329px;
+    
+}
+#basicPlan :nth-child(8){
+    position: absolute;
+    left: 121px;
+    top: 302px;
+    font-size: 14px;
+}
+#basicPlan :nth-child(9){
+    position: absolute;
+    left: 130px;
+    top: 353px;
+    width: 129px;
+    height: 42px;
+    background-color: #FFBB42;
+    border-radius: 3px;
+}
+
+#premiumPlan :nth-child(1){
+    position: absolute;
+    top: 81px;
+    left: 110px;
+    font-size: 25px;
+}
+#premiumPlan :nth-child(2){
+    position: absolute;
+    top: 114px;
+    left: 155px;
+}
+#premiumPlan :nth-child(3){
+    position: absolute;
+    left: 31px;
+    top: 240px;
+    background-color: #A0A0A0;
+    height: 0.5px;
+    width: 329px;
+}
+#premiumPlan :nth-child(4){
+    position: absolute;
+    left: 160px;
+    top: 251px;
+    font-size: 14px;
+}
+#premiumPlan :nth-child(5){
+    position: absolute;
+    left: 31px;
+    top: 281px;
+    background-color: #A0A0A0;
+    height: 0.3px;
+    width: 329px;
+}
+#premiumPlan :nth-child(6){
+    position: absolute;
+    left: 145px;
+    top: 291px;
+    font-size: 14px;
+}
+#premiumPlan :nth-child(7){
+    position: absolute;
+    left: 31px;
+    top: 323px;
+    background-color: #A0A0A0;
+    height: 0.1px;
+    width: 329px;
+    
+}
+#premiumPlan :nth-child(8){
+    position: absolute;
+    left: 121px;
+    top: 333px;
+    font-size: 14px;
+}
+#premiumPlan :nth-child(9){
+    position: absolute;
+    left: 130px;
+    top: 384px;
+    width: 129px;
+    height: 42px;
+    background-color: #FFBB42;
+    border-radius: 3px;
+}
+
+#goldPlan :nth-child(1){
+    position: absolute;
+    top: 51px;
+    left: 134px;
+    font-size: 25px;
+}
+#goldPlan :nth-child(2){
+    position: absolute;
+    top: 83px;
+    left: 155px;
+}
+#goldPlan :nth-child(3){
+    position: absolute;
+    left: 31px;
+    top: 209px;
+    background-color: #A0A0A0;
+    height: 0.1px;
+    width: 329px;
+}
+#goldPlan :nth-child(4){
+    position: absolute;
+    left: 160px;
+    top: 220px;
+    font-size: 14px;
+}
+#goldPlan :nth-child(5){
+    position: absolute;
+    left: 31px;
+    top: 250px;
+    background-color: #A0A0A0;
+    height: 0.1px;
+    width: 329px;
+}
+#goldPlan :nth-child(6){
+    position: absolute;
+    left: 145px;
+    top: 260px;
+    font-size: 14px;
+}
+#goldPlan :nth-child(7){
+    position: absolute;
+    left: 31px;
+    top: 292px;
+    background-color: #A0A0A0;
+    height: 0.1px;
+    width: 329px;
+    
+}
+#goldPlan :nth-child(8){
+    position: absolute;
+    left: 121px;
+    top: 302px;
+    font-size: 14px;
+}
+#goldPlan :nth-child(9){
+    position: absolute;
+    left: 130px;
+    top: 353px;
+    width: 129px;
+    height: 42px;
+    background-color: #FFBB42;
+    border-radius: 3px;
+}

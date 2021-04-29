@@ -1,0 +1,36 @@
+#aboutUs{
+    position: absolute;
+    top: 1604px;
+    left: 0px;
+    display: inline-block;
+}
+#aboutUs div{
+    position: absolute;
+    top: 0px;
+    left: 847px;
+    width: 851px;
+    height: 623px;
+    background-color: #FFBB42;
+    z-index: -1;
+}
+#aboutUs div p:first-of-type{
+    position: absolute;
+    top: 156px;
+    left: 83px;
+    font-size: 30px;
+}
+#aboutUs div p:last-of-type{
+    position: absolute;
+    top: 213px;
+    left: 83px;
+    font-size: 15px;
+}
+#readMore{
+    position: absolute;
+    top: 403px;
+    left: 83px;
+    width: 145px;
+    height: 46px;
+    background-color: #FFBB42;
+    border-radius: 3px;
+}
